@@ -1,2 +1,2 @@
-# faraz-first-code
-this is the 1st code of faraz on github
+binary tree 
+this is an easy and simple binary tree code for students
